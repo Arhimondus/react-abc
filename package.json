@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "abcjs": "5.1.2",
+    "abcjs": "https://github.com/19EB/abcjs-custom.git",
     "prop-types": "^15.6.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
