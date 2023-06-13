@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 
 import renderMidi from 'abcjs/src/api/abc_tunebook_midi';
 import { midiProps } from '../defaults/props';
-import './style.css';
 
 class Midi extends Component {
   componentDidMount() {
